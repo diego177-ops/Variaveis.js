@@ -1,11 +1,11 @@
-# 📦 JavaScript Essentials: Variáveis e Memória
+ JavaScript Essentials: Variáveis e Memória
 
 > Um guia técnico e prático sobre os fundamentos de variáveis no JavaScript, cobrindo desde a declaração até o comportamento de escopo e armazenamento na memória.
 
-## 🎯 Objetivo
+ Objetivo
 Este repositório serve como material de consulta para entender como o motor do JavaScript (V8/outros) gerencia dados, a evolução das palavras-chave `var`, `let` e `const` e as regras de visibilidade no código.
 
-## 📖 Conteúdo Detalhado
+ Conteúdo Detalhado
 
 ### 1. Declaração e Evolução
 Uma análise sobre as diferenças fundamentais entre:
@@ -24,7 +24,7 @@ Como o JavaScript gerencia a pilha e o monte:
 - **Stack (Pilha):** Armazenamento de tipos primitivos (Static Allocation).
 - **Heap (Monte):** Armazenamento de objetos e funções (Dynamic Allocation).
 
-## 🚀 Exemplos Práticos
+ Exemplos Práticos
 O repositório contém arquivos `.js` comentados demonstrando erros comuns de referência e boas práticas de nomenclatura.
 
 ```javascript
